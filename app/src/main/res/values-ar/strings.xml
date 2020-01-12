@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">الدليل الجنائي</string>
+    <string name="call_suspect">اتصال بالمشتبه</string>
+    <string name="crime_call_text">اتصال بـ:%s</string>
+    <string name="crime_details_label" translatable="false">التفاصيل</string>
+    <string name="crime_report_no_suspect">ليس هناك مشتبهه</string>
+    <string name="crime_report_solved">تم حل القضية</string>
+    <string name="crime_report_subject">تقرير القضية</string>
+    <string name="crime_report_suspect">المشتبهه هو : %s</string>
+    <string name="crime_report_text">ارسال تقرير القضية</string>
+    <string name="crime_report_unsolved">القضية لم تحل</string>
+    <string name="crime_solved_label">تم حل القضية</string>
+    <string name="crime_suspect_text">اختيار مشتبهه</string>
+    <string name="crime_title_hint">ادخل عنوان القضية</string>
+    <string name="crime_title_label">عنوان القضية</string>
+    <string name="date_picker_title">"تاريخ القضية: "</string>
+    <string name="hide_subtitle">اخفاء</string>
+    <string name="new_crime">جريمة جديدة</string>
+    <string name="send_report">ارسال تقرير القضية عبر</string>
+    <string name="show_subtitle">عرض العدد</string>
+    <string name="subtitle_format">%1$d جريمة</string>
+    <string name="time_picker_title" translatable="false">وقت الجريمة</string>
+    <string name="crime_photo_button_description" translatable="false">"اخذ صورة "</string>
+    <string name="crime_photo_image_description" translatable="false">تم التقاط صورة</string>
+    <string name="crime_photo_no_image_description" translatable="false">لم يتم التقاط صورة</string>
+</resources>
